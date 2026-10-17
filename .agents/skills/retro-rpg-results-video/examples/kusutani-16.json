@@ -1,0 +1,122 @@
+{
+  "brand": "クスタニ塾",
+  "heading": "KUSUTANI QUEST",
+  "max_score": 500,
+  "intro_seconds": 3,
+  "card_seconds": 3,
+  "outro_seconds": 4,
+  "results": [
+    {
+      "school": "柏中",
+      "grade": "3",
+      "test": "1学期期末テスト",
+      "score": 493,
+      "personal_best": true
+    },
+    {
+      "school": "柏中",
+      "grade": "3",
+      "test": "1学期期末テスト",
+      "score": 459,
+      "personal_best": false
+    },
+    {
+      "school": "柏中",
+      "grade": "2",
+      "test": "2学期実力テスト",
+      "score": 494,
+      "personal_best": true
+    },
+    {
+      "school": "柏中",
+      "grade": "2",
+      "test": "1学期期末テスト",
+      "score": 476,
+      "personal_best": false
+    },
+    {
+      "school": "柏中",
+      "grade": "2",
+      "test": "2学期実力テスト",
+      "score": 464,
+      "personal_best": false
+    },
+    {
+      "school": "柏中",
+      "grade": "2",
+      "test": "2学期実力テスト",
+      "score": 483,
+      "personal_best": true
+    },
+    {
+      "school": "道中",
+      "grade": "1",
+      "test": "2学期実力テスト",
+      "score": 478,
+      "personal_best": false
+    },
+    {
+      "school": "大中",
+      "grade": "1",
+      "test": "2学期実力テスト",
+      "score": 417,
+      "personal_best": true
+    },
+    {
+      "school": "柏中",
+      "grade": "1",
+      "test": "2学期実力テスト",
+      "score": 449,
+      "personal_best": true
+    },
+    {
+      "school": "柏中",
+      "grade": "3",
+      "test": "1学期期末テスト",
+      "score": 428,
+      "personal_best": false
+    },
+    {
+      "school": "柏中",
+      "grade": "3",
+      "test": "2学期実力テスト",
+      "score": 442,
+      "personal_best": false
+    },
+    {
+      "school": "大中",
+      "grade": "3",
+      "test": "1学期期末テスト",
+      "score": 409,
+      "personal_best": false
+    },
+    {
+      "school": "柏中",
+      "grade": "3",
+      "test": "2学期実力テスト",
+      "score": 421,
+      "personal_best": false
+    },
+    {
+      "school": "柏中",
+      "grade": "2",
+      "test": "1学期期末テスト",
+      "score": 458,
+      "personal_best": false
+    },
+    {
+      "school": "柏中",
+      "grade": "1",
+      "test": "1学期期末テスト",
+      "score": 445,
+      "personal_best": false
+    },
+    {
+      "school": "道中",
+      "grade": "1",
+      "test": "1学期期末テスト",
+      "score": 467,
+      "personal_best": false
+    }
+  ]
+}
